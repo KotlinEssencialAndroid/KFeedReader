@@ -35,8 +35,6 @@ class MainActivity : AppCompatActivity(), Callback {
         newArticles?.mapTo(listItens) {
             Item(it.title, it.author, it.date, it.source, it.enclosure.url)
         }
-
-        adapter = ItemAdapter(listItens, this)
         adapter.notifyDataSetChanged()
     }
 
