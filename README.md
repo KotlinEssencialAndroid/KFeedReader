@@ -3,8 +3,6 @@ KFeedReader
 
 Nesse projeto vamos desenvolver um aplicativo leitor de Feed/RSS e utilizar vários recursos muito legais do Kotlin para desenvolvimento Android.
 
-***Esse projeto faz parte do curso Kotlin Essencial para Android ([https://www.udemy.com/curso-kotlin-android/](https://www.udemy.com/curso-kotlin-android/?couponCode=ANDROIDPRO))***
-
 
 Pré-requisitos
 --------------
